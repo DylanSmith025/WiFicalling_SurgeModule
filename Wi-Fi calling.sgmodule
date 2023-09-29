@@ -1,0 +1,9 @@
+#!name=Wi-Fi calling
+#!desc=WI-FI calling
+
+[Host]
+epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
+ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
+ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org = 208.54.87.3
+epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.49.131
+ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.36.3
