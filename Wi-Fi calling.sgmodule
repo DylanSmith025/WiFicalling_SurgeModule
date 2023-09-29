@@ -1,6 +1,13 @@
 #!name=Wi-Fi calling
 #!desc=WI-FI calling
 
+[Rule]
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
+
 [Host]
 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org = 208.54.35.163
